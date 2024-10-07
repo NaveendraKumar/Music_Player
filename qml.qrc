@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/bar.png</file>
+        <file>images/cover.png</file>
+        <file>images/cover_frame.png</file>
+        <file>images/cover_overlay.png</file>
+        <file>images/forward.png</file>
+        <file>images/hacker.jpg</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/rewind.png</file>
+        <file>images/share.png</file>
+        <file>images/slider_background.png</file>
+        <file>images/slider_knob.png</file>
+        <file>images/slider_value_left.png</file>
+        <file>images/slider_value_right.png</file>
+        <file>music/2-Nee Kavithaigala-SenSongsMp3.Co.mp3</file>
+        <file>music/[iSongs.info] 03 - Sankurathri Kodi.mp3</file>
+        <file>music/[iSongs.info] 04 - Nee Paata Madhuram.mp3</file>
+        <file>music/[iSongs.info] 05 - Nikhaarsaina Brahmachaarine.mp3</file>
+        <file>music/[iSongs.info] 05 - Smaiyai.mp3</file>
+        <file>music/[iSongs.info] 06 - Killi Killi.mp3</file>
+        <file>music/[iSongs.info] 06 - Ledhamma Nyayam.mp3</file>
+        <file>music/[iSongs.info] 06 - Maama Choodaro.mp3</file>
+        <file>music/[iSongs.info] 06 - Po Ve Po.mp3</file>
+        <file>music/[iSongs.info] 07 - Evolution Theme.mp3</file>
+        <file>music/[iSongs.info] 07 - O Kalala Kathala.mp3</file>
+        <file>Audioplayer.qml</file>
+        <file>images/background.png</file>
+    </qresource>
+</RCC>
