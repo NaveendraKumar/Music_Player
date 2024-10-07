@@ -26,7 +26,7 @@
         <file>music/[iSongs.info] 06 - Po Ve Po.mp3</file>
         <file>music/[iSongs.info] 07 - Evolution Theme.mp3</file>
         <file>music/[iSongs.info] 07 - O Kalala Kathala.mp3</file>
-        <file>Audioplayer.qml</file>
+        <file>musicplayer.qml</file>
         <file>images/background.png</file>
     </qresource>
 </RCC>
